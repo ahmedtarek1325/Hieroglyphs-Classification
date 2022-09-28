@@ -7,5 +7,5 @@
 ## 2. Object localization With openCV
 ![Object localization](https://github.com/ahmedtarek1325/Hieroglyphs-Classification/blob/master/img.png)
 
-## 3. Final Results
-![final Result](https://github.com/ahmedtarek1325/Hieroglyphs-Classification/blob/master/images/WhatsApp%20Image%202022-08-31%20at%207.43.13%20PM.jpeg)
+## 3. Current Results
+![Current Result](./../results/out.png)
